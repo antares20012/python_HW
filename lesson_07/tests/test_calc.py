@@ -4,7 +4,6 @@ from pages.calc_page import CalcPage
 
 @pytest.fixture
 def driver():
-    # Инициализируем драйвер в фикстуре
     options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(options=options)
     yield driver

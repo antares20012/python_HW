@@ -1,18 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50bcace2-fd07-4cdd-b738-43b3c6c08e37" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProject/lesson_05_task_1.py" beforeDir="false" />
+    <list default="true" id="50bcace2-fd07-4cdd-b738-43b3c6c08e37" name="Changes" comment="20260726_1140">
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_HW — копия" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python_HW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_HW.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/.idea/testing_tasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../testing_tasks/.idea/testing_tasks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testing_tasks/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/.idea/tasks_lesson_5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/block.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/check_box.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/click.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/task_1_lesson_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/task_2_lesson_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/task_3_lesson_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/test_yougile_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_5/visibility.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/.idea/tasks_lesson_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/js_script_click.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/js_script_get_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/js_script_screenshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/js_script_scroll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/screenshots/full_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/screenshots/full_page_after.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/screenshots/full_screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/screenshots/main_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/screenshots/user_name.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/script_cookie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/send_keys.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/task_1_lesson_6_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/task_2_lesson_6_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/task_3_lesson_6_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/test_update_user_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_6/ПОСИК ПО ХПАФ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/.idea/tasks_lesson_7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/pages/profile_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/tests/test_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing_tasks/tasks_lesson_7/update_user_name.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +76,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="lesson7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,10 +135,10 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "lesson7",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Testing/01_Python/python_HW/lesson_07",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.python.lsp.core.PyTypeEngineConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -177,9 +224,22 @@
       <option name="presentableId" value="Default" />
       <updated>1782838393905</updated>
     </task>
+    <task id="LOCAL-00001" summary="20260726_1140">
+      <option name="closed" value="true" />
+      <created>1785055247190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785055247190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20260726_1140" />
+    <option name="LAST_COMMIT_MESSAGE" value="20260726_1140" />
   </component>
 </project>

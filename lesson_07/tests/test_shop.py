@@ -5,7 +5,6 @@ from pages.shop_page import ShopPage
 
 @pytest.fixture
 def driver():
-
     driver = webdriver.Firefox()
     yield driver
     driver.quit()
