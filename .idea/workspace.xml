@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50bcace2-fd07-4cdd-b738-43b3c6c08e37" name="Changes" comment="20260726_1140">
+    <list default="true" id="50bcace2-fd07-4cdd-b738-43b3c6c08e37" name="Changes" comment="20260729_2350">
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python_HW — копия" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python_HW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_HW.iml" afterDir="false" />
@@ -76,7 +76,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson7" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,11 +109,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.pytest for test_yougile.test_create_project.executor": "Run",
+    "Python tests.pytest for test_yougile.test_get_yougile_company_id.executor": "Debug",
+    "Python tests.pytest for test_yougile.test_update_project.executor": "Debug",
+    "Python tests.pytest for test_yougile.test_yougile.executor": "Run",
+    "Python tests.pytest for test_yougile.test_yougile_list_company.executor": "Run",
+    "Python tests.pytest for test_yougile.test_yougile_positive.executor": "Run",
+    "Python tests.pytest for test_yougile_negative.test_yougile_negative.executor": "Run",
+    "Python tests.pytest for test_yougile_positive.test_yougile_positive.executor": "Run",
+    "Python tests.pytest for test_yougile_projects_post.test_get_yougile_my_token.executor": "Debug",
+    "Python tests.pytest for tests.test_yougile_negative.test_yougile_negative.executor": "Debug",
+    "Python tests.pytest for tests.test_yougile_negative.test_yougile_positive.executor": "Debug",
+    "Python tests.pytest for tests.test_yougile_positive.test_yougile_positive.executor": "Debug",
     "Python tests.pytest in PyCharm 2026.1.2.executor": "Run",
     "Python tests.pytest in test_01_form.py.executor": "Run",
     "Python tests.pytest in test_03_shop.py.executor": "Run",
+    "Python tests.pytest in test_calc.py.executor": "Run",
     "Python tests.pytest in test_lesson06_task2.py.executor": "Run",
     "Python tests.pytest in test_shop.py.executor": "Run",
+    "Python tests.pytest in test_yougile.py.executor": "Run",
+    "Python tests.pytest in test_yougile_negative.py.executor": "Run",
     "Python.1.executor": "Run",
     "Python.Python_HW.executor": "Run",
     "Python.book.executor": "Run",
@@ -128,15 +143,17 @@
     "Python.student.executor": "Run",
     "Python.test_01_form.executor": "Run",
     "Python.test_02_calc.executor": "Run",
+    "Python.test_yougile.ry.executor": "Run",
     "Python.user.executor": "Run",
+    "Python.yougile_page_negative.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Testing/01_Python/python_HW/lesson_07",
+    "git-widget-placeholder": "lesson8",
+    "last_opened_file_path": "D:/Testing/01_Python/python_HW/lesson_08",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
@@ -151,13 +168,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Testing\01_Python\python_HW\lesson_08" />
+      <recent name="D:\Testing\01_Python\python_HW\lesson_08\tests" />
+      <recent name="D:\Testing\01_Python\python_HW\lesson_08\pages" />
       <recent name="D:\Testing\01_Python\python_HW\lesson_07" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Testing\01_Python\python_HW\lesson_08\pages" />
+      <recent name="D:\Testing\01_Python\python_HW\lesson_08\tests" />
+      <recent name="D:\Testing\01_Python\python_HW\lesson_08" />
       <recent name="D:\Testing\01_Python\python_HW\lesson_07\tests" />
       <recent name="D:\Testing\01_Python\python_HW\lesson_07\pages" />
-      <recent name="D:\Testing\01_Python\python_HW\06K_lesson" />
-      <recent name="D:\Testing\01_Python\testing_tasks\tasks_lesson_5" />
     </key>
   </component>
   <component name="RunManager">
@@ -185,6 +206,196 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_yougile" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_yougile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_yougile" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_yougile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_yougile" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_yougile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_yougile" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_yougile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_yougile" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_yougile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_yougile" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_yougile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_yougile" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_yougile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_yougile_negative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_yougile_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_yougile_negative.test_yougile_negative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_yougile_negative.test_yougile_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.test_yougile.test_yougile_positive" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_yougile.test_yougile_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in PyCharm 2026.1.2" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="python_HW" />
       <option name="ENV_FILES" value="" />
@@ -207,7 +418,20 @@
     <list>
       <item itemvalue="Python.Python_HW" />
       <item itemvalue="Python tests.pytest in PyCharm 2026.1.2" />
+      <item itemvalue="Python tests.pytest for tests.test_yougile" />
+      <item itemvalue="Python tests.pytest for tests.test_yougile.test_yougile_positive" />
+      <item itemvalue="Python tests.pytest for tests.test_yougile_negative" />
+      <item itemvalue="Python tests.pytest for tests.test_yougile_negative.test_yougile_negative" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for tests.test_yougile_negative.test_yougile_negative" />
+        <item itemvalue="Python tests.pytest for tests.test_yougile.test_yougile_positive" />
+        <item itemvalue="Python tests.pytest for tests.test_yougile" />
+        <item itemvalue="Python tests.pytest for tests.test_yougile_negative" />
+        <item itemvalue="Python tests.pytest for tests.test_yougile" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -232,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785055247190</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20260729_2350">
+      <option name="closed" value="true" />
+      <created>1785358202599</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1785358202599</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +472,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20260726_1140" />
-    <option name="LAST_COMMIT_MESSAGE" value="20260726_1140" />
+    <MESSAGE value="20260729_2350" />
+    <option name="LAST_COMMIT_MESSAGE" value="20260729_2350" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson_07/tests/test_calc.py</url>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
