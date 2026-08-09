@@ -48,9 +48,8 @@ class SchoolTable:
         new_user_id = self.get_last_added_user_id(db_cursor) + 1
         db_cursor.execute("INSERT INTO users (user_id, user_email, subject_id) VALUES (%s, %s, %s)",
                           (new_user_id, email, subject_id))
-        email_to_be_deleted = self.get_last_added_user_email(db_cursor)
-        db_cursor.execute('DELETE FROM users WHERE user_email = %s', (email_to_be_deleted,))
-        db_cursor.execute('SELECT from users WHERE user_email = %s', (email_to_be_deleted,))
+        db_cursor.execute('DELETE FROM users WHERE user_id = %s', (new_user_id,))
+        db_cursor.execute('SELECT user_id from users WHERE user_id = %s', (new_user_id,))
         result = db_cursor.fetchone()
         return result
 
