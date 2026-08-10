@@ -5,10 +5,10 @@ import psycopg2
 @pytest.fixture(scope="session")
 def connection():
     conn = psycopg2.connect(
-        dbname="my_database",       # Введите название своей БД
-        user="my_user",             # Введите имя пользователя
-        password="my_password",     # Введите свой пароль доступа к БД
-        host="my_localhost",        # Укажите хост базы данных
+        dbname="SQL_testing",       # Введите название своей БД
+        user="postgres",             # Введите имя пользователя
+        password="password",     # Введите свой пароль доступа к БД
+        host="localhost",        # Укажите хост базы данных
         port="5432"                 # Укажите порт БД
     )
 
